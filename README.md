@@ -1,4 +1,15 @@
 # Ayushi-Shukla-Portfolio
+.
+.
+To view the portfolio: https://glowing-pothos-a7604a.netlify.app/
+.
+.
+
+
+
+
+
+
 
 Features
 ⚡️ Modern UI Design + Reveal Animations
