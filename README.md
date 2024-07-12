@@ -1,5 +1,13 @@
 # Ayushi-Shukla-Portfolio
 
+Features
+⚡️ Modern UI Design + Reveal Animations
+⚡️ One Page Layout
+⚡️ Styled with Bootstrap v4.3 + Custom SCSS
+⚡️ Fully Responsive
+⚡️ Valid HTML5 & CSS3
+⚡️ Well organized documentation
+
 Prerequisites 📋
 You'll need Git and Node.js (which comes with NPM) installed on your computer.
 
